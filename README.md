@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=lorenaquintan)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lorenaquintan=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lorenaquintan&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **lorenaquintan/lorenaquintan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
