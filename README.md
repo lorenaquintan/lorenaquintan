@@ -1,5 +1,4 @@
 ## Hello! My name is lorena!
-Passtinate learner ~
 ![](https://github.com/lorenaquintan/lorenaquintan/blob/main/Kotone_Cut_in.webp)<br>
 ## My Skills ~
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,linux,mysql)](https://skillicons.dev)
